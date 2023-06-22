@@ -1,6 +1,6 @@
 # betting-odds-scrapper
 
-This Python program scrapes football match odds from a Pinnacle website and stores them in a text file. It is solely for demonstration purposes unless someone wants to improve it.
+This Python program scrapes football match odds from a Pinnacle website and stores them in a text file. It is solely for demonstration purposes unless someone wants to transform it into full solution.
 
 ## Features
 
